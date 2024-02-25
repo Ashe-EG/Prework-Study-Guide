@@ -1,4 +1,4 @@
-# <"Fundamentals Study Guide">
+# Fundamentals Study Guide
 
 ## Description
 
